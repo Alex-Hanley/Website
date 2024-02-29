@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/home/static/css/main.606dddd9.css",
-    "main.js": "/home/static/js/main.dff27fe1.js",
+    "main.js": "/home/static/js/main.0bbc3811.js",
     "static/js/453.19c7e6ca.chunk.js": "/home/static/js/453.19c7e6ca.chunk.js",
-    "static/media/profile.jpg": "/home/static/media/profile.a5fc6fe7dab0fb0156c1.jpg",
+    "static/media/profile.jpg": "/home/static/media/profile.9731c0fc569fc46e8a18.jpg",
     "static/media/SGA.png": "/home/static/media/SGA.74f8a04e78cba44eb1a4.png",
     "static/media/DataScience.png": "/home/static/media/DataScience.0249fed0c90efa56fd33.png",
     "static/media/Sigep.png": "/home/static/media/Sigep.240f992c433a1c557d2b.png",
     "static/media/YjspLogo.png": "/home/static/media/YjspLogo.ff5b403cf2a637d04441.png",
     "index.html": "/home/index.html",
     "main.606dddd9.css.map": "/home/static/css/main.606dddd9.css.map",
-    "main.dff27fe1.js.map": "/home/static/js/main.dff27fe1.js.map",
+    "main.0bbc3811.js.map": "/home/static/js/main.0bbc3811.js.map",
     "453.19c7e6ca.chunk.js.map": "/home/static/js/453.19c7e6ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.606dddd9.css",
-    "static/js/main.dff27fe1.js"
+    "static/js/main.0bbc3811.js"
   ]
 }
